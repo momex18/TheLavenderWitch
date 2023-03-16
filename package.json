@@ -1,7 +1,7 @@
 {
   "name": "simple-app",
   "version": "0.1.0",
-  "homepage": "https://momex18.github.io",
+  "homepage": "https://momex18.github.io/TheLavenderWitch",
   "private": false,
   "dependencies": {
     "@emotion/react": "11.7.1",
