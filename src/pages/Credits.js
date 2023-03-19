@@ -44,10 +44,8 @@ function Credits() {
               You will do amazing things,<br/>
               Because you yourself are amazing.<br/>
               <br/>
-              <br/>
               -Brian
               </p>
-
               {/* Automatically adds onClick that dismisses modal */}
               <ModalCloseTarget>
                 <button>Close</button>

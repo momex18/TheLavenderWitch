@@ -77,7 +77,7 @@ function App() {
             // sx={{ backgroundColor: 'black' }}
           >
             <List sx={{ width: 300, backgroundColor: '#100C08', color: '#2A623D' }}>
-              <ListItem button key="Home" onClick={() => toggleDrawerNav("ErinHome", false)}>
+              <ListItem button key="Home" onClick={() => toggleDrawerNav("TheLavenderWitch", false)}>
                  <ListItemIcon>
                    <CottageIcon sx={{ color: 'green' }} />
                  </ListItemIcon>
