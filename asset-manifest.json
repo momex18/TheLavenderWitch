@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/TheLavenderWitch/static/css/main.960c6ab5.css",
-    "main.js": "/TheLavenderWitch/static/js/main.d7e26a0a.js",
+    "main.js": "/TheLavenderWitch/static/js/main.2ad1b2c8.js",
     "static/js/787.fdfc94ac.chunk.js": "/TheLavenderWitch/static/js/787.fdfc94ac.chunk.js",
     "static/media/witch_background.jpg": "/TheLavenderWitch/static/media/witch_background.4886afa28a7d2aba93c2.jpg",
     "index.html": "/TheLavenderWitch/index.html",
     "main.960c6ab5.css.map": "/TheLavenderWitch/static/css/main.960c6ab5.css.map",
-    "main.d7e26a0a.js.map": "/TheLavenderWitch/static/js/main.d7e26a0a.js.map",
+    "main.2ad1b2c8.js.map": "/TheLavenderWitch/static/js/main.2ad1b2c8.js.map",
     "787.fdfc94ac.chunk.js.map": "/TheLavenderWitch/static/js/787.fdfc94ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.960c6ab5.css",
-    "static/js/main.d7e26a0a.js"
+    "static/js/main.2ad1b2c8.js"
   ]
 }
